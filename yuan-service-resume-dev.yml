@@ -1,4 +1,4 @@
 yuan:
-  message: ni hao!
+  message: ni hao1!
 mysql:
-  url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
+  url: jdbc:mysql://localhost:3306/lagou1
