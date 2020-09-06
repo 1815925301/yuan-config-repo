@@ -1,2 +1,4 @@
-server:
-  name: dev
+yuan:
+  message: ni hao!
+mysql:
+  url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
